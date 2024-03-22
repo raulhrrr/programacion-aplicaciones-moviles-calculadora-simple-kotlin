@@ -4,7 +4,7 @@ A continuación, encontrarás los pasos para la ejecución del proyecto.
 * Abre tu terminal o línea de comandos.
 * Navega a la ubicación donde deseas clonar el repositorio.
 * Ejecuta el siguiente comando para clonar el repositorio:
-* git clone https://github.com/raulhrrr/programacion-aplicaciones-moviles-calculadora-simple.git
+* git clone https://github.com/raulhrrr/programacion-aplicaciones-moviles-calculadora-simple-kotlin.git
 
 **Abrir en Android Studio:**
 * Abre Android Studio.
